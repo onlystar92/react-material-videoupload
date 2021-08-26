@@ -10,9 +10,27 @@
   },
   "dependencies": {
     "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.57",
+    "aws-sdk": "^2.976.0",
+    "axios": "^0.21.1",
     "clsx": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "react-fb-image-grid": "latest",
+    "react-grid-gallery": "^0.5.5",
     "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
